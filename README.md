@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vetle Harnes
 - 👀 I’m interested in low level programming
-- 🌱 I’m currently learning rust, C, chisel, OpenGL
+- 🌱 I’m currently learning assembly, rust, C, chisel, OpenGL
 - 📫 How to reach me vetlewh@gmail.com
 
 <!---
